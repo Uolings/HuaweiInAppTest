@@ -1,0 +1,57 @@
+{
+  "agcgw_all": {
+    "SG": "connect-dra.dbankcloud.cn",
+    "SG_back": "connect-dra.hispace.hicloud.com",
+    "CN": "connect-drcn.dbankcloud.cn",
+    "CN_back": "connect-drcn.hispace.hicloud.com",
+    "RU": "connect-drru.hispace.dbankcloud.ru",
+    "RU_back": "connect-drru.hispace.dbankcloud.cn",
+    "DE": "connect-dre.dbankcloud.cn",
+    "DE_back": "connect-dre.hispace.hicloud.com"
+  },
+  "websocketgw_all": {
+    "SG": "connect-ws-dra.hispace.dbankcloud.cn",
+    "SG_back": "connect-ws-dra.hispace.dbankcloud.com",
+    "CN": "connect-ws-drcn.hispace.dbankcloud.cn",
+    "CN_back": "connect-ws-drcn.hispace.dbankcloud.com",
+    "RU": "connect-ws-drru.hispace.dbankcloud.ru",
+    "RU_back": "connect-ws-drru.hispace.dbankcloud.cn",
+    "DE": "connect-ws-dre.hispace.dbankcloud.cn",
+    "DE_back": "connect-ws-dre.hispace.dbankcloud.com"
+  },
+  "client": {
+    "cp_id": "30092000025238286",
+    "product_id": "461323198429482906",
+    "client_id": "1612676363582472320",
+    "client_secret": "146502AA5625FBCFA3A2A4E776168276FAD0EBEE81A4C41F274F3333B7EC1E82",
+    "project_id": "461323198429482906",
+    "app_id": "113384195",
+    "api_key": "DQEDAMXGF98tb4pQIHI73DNu0VA58Fd1uL35mKZTsa40udnddMTwo+vHjb3/jr2cm2jQm3S9l08ht3rAx/IvlMJIBidWvQ6zqJo0Ww==",
+    "package_name": "com.wowgames.mermaid.match3.huawei"
+  },
+  "oauth_client": {
+    "client_id": "113384195",
+    "client_type": 1
+  },
+  "app_info": {
+    "app_id": "113384195",
+    "package_name": "com.wowgames.mermaid.match3.huawei"
+  },
+  "configuration_version": "3.0",
+  "appInfos": [
+    {
+      "package_name": "com.wowgames.mermaid.match3.huawei",
+      "client": {
+        "app_id": "113384195"
+      },
+      "app_info": {
+        "package_name": "com.wowgames.mermaid.match3.huawei",
+        "app_id": "113384195"
+      },
+      "oauth_client": {
+        "client_type": 1,
+        "client_id": "113384195"
+      }
+    }
+  ]
+}
